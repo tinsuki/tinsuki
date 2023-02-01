@@ -1,3 +1,8 @@
 html {
-    background-color: rgb(30, 30, 30);
+    --russian-violet: #0f0f43ff;
+    --ksu-purple: #5c2a8dff;
+    --quick-silver: #a3a3a3ff;
+    --claret: #5f0c27ff;
+    --dark-re : #8b0000ff;
+    background-color: var(--russian-violet);
 }
