@@ -8,5 +8,5 @@ html {
 }
 h1{
    color : var(--quick-silver);
-   font-family: 'Raleway', 'Fira Code', monospace;
+   font-family: 'Fira Code', monospace;
 }
