@@ -6,3 +6,7 @@ html {
     --dark-re : #8b0000ff;
     background-color: var(--russian-violet);
 }
+h1{
+   color : var(--quick-silver);
+   font-family: 'Fira Code';
+}
