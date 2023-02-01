@@ -1,12 +1,12 @@
 html {
     --russian-violet: #0f0f43ff;
     --ksu-purple: #5c2a8dff;
-    --quick-silver: #a3a3a3ff;
+    --quick-silver: rgb(202, 202, 202);
     --claret: #5f0c27ff;
-    --dark-re : #8b0000ff;
+    --dark-red : #8b0000ff;
     background-color: var(--russian-violet);
 }
 h1{
    color : var(--quick-silver);
-   font-family: 'Fira Code';
+   font-family: 'Raleway', 'Fira Code', monospace;
 }
