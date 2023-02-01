@@ -20,3 +20,8 @@ h1{
     background-size: cover;
     background-attachment: fixed
 }
+
+#particles-js .particles-js-canvas-el {
+    width: 100% !important;
+    height: 100vh !important
+}
