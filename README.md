@@ -1,4 +1,6 @@
-### Hello there 👋
+### Hello there <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" alt="🫡" width="32" height="32"></picture>
+[![Tinsuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinsuki&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinsuki&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tinsuki/tinsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
