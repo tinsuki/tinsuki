@@ -1,14 +1,9 @@
-# Howdy <picture> <source src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" alt="🫡" width="32" height="32"></picture>
-# I'm Tinsuki Nice to meet you <picture> <source src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture>
-___
+# Howdy <picture> <source src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" alt="🫡" width="32" height="32"></picture> <br>I'm Tinsuki nice to meet you <picture> <source src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture>
 
 ## About me <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2753/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2753/512.gif" alt="❓" width="32" height="32"></picture>
-___
 #### Hi ! I'm **Tinsuki** a 19 years old French student learning development.<br>I'm passionate about programming, and I'm always looking for new things to learn.<br> I'm currently learning game design, and I'm also interested in game development.
 
-
 ## My programming languages <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" />
-___
 ### Known <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="20" height="20" />
 <p>
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -31,7 +26,6 @@ ___
 </p>
 
 ## My tools and frameworks <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" />
-___
 <p>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
     <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a>
@@ -49,7 +43,6 @@ ___
 
 
 ## Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer%20Disk.png" alt="Computer Disk" width="25" height="25" />
-___
 
 ### Spotify Library Manager ( in progress ):
 
