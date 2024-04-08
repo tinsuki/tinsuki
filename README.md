@@ -48,7 +48,7 @@
 
 Started in february 2024 this project is a library manager for spotify, the aim of the project is to be able to manage your library without using the spotify app.  
 I want to make this project using typescript and react for the frontend and nodejs for the backend.  
-I want to create an API to manga the library and the user data, but I don't know yet what I will use for the database.  
+I want to create an API to manage the library and the user data, but I don't know yet what I will use for the database.  
 If I like the project I think I will make an embedded player to listen to the music directly on the website.  
 An evolution of the project could be to make a mobile and desktop app to manage the library on the go.
 
