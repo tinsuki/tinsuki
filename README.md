@@ -2,7 +2,7 @@
 
 ## About me <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2753/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2753/512.gif" alt="❓" width="32" height="32"></picture>
 #### Hi ! I'm ___Tinsuki___ a 19 years old French student learning development.<br>I'm passionate about programming, and I'm always looking for new things to learn.<br> I'm currently learning game design, and I'm also interested in game development.
-### As of today, I'm developping a _NetBox library importer_ for a french company named [Darva](https://www.darva.com/)
+
 ### <a style="text-decoration: none; color: #cdd6f4;" href="https://www.tinsuki.dev" target="_blank" >Link to my website: <em>www.tinsuki.dev</em></a>
 
 ## My programming languages <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" />
