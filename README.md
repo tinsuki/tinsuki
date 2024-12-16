@@ -44,16 +44,6 @@
 
 
 ## Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer%20Disk.png" alt="Computer Disk" width="25" height="25" />
-
-### Spotify Library Manager ( in progress ):
-
-Started in february 2024 this project is a library manager for spotify, the aim of the project is to be able to manage your library without using the spotify app.  
-I want to make this project using typescript and react for the frontend and nodejs for the backend.  
-I want to create an API to manage the library and the user data with NestJS, prisma and PostgreSQL.
-If I like the project I think I will make an embedded player to listen to the music directly on the website.  
-An evolution of the project could be to make a mobile and desktop app to manage the library on the go.
-
-[![Spotify Library Manager](https://github-readme-stats.vercel.app/api/pin/?username=Tinsuki&repo=SpotifyLibraryManager&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/tinsuki/Spotify-Library-Manager)
 ___
 
 ### Smart Campus desktop web application ( ended ):
