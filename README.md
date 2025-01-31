@@ -52,7 +52,7 @@ This project is part of my studies, it's a web application to get the quality of
 The project is made with PHP, HTML, CSS, and JavaScript and using the framework symfony.  
 The project is not available online, but you can find the code on github.  
 
-[![Smart Campus v1](https://github-readme-stats.vercel.app/api/pin/?username=Altaks&repo=Smart-Campus&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/Altaks/Smart-Campus)
+[![Smart Campus v1](https://github-readme-stats-zeta-teal-22.vercel.app/api/pin/?username=Altaks&repo=Smart-Campus&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/Altaks/Smart-Campus)
 ___
 
 ### Smart Campus mobile web application ( ended ):
@@ -61,7 +61,7 @@ This project is part of my studies, it's a mobile application to get the quality
 The project is made with PHP, HTML, CSS, and JavaScript and using the framework symfony with APIPlatform for the api and React for the frontend.  
 The project is not available online, but you can find the code on github.  
 
-[![Smart Campus v2](https://github-readme-stats.vercel.app/api/pin/?username=Altaks&repo=Smart-Campus-Mobile&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https:///github.com/Altaks/Smart-Campus-Mobile)
+[![Smart Campus v2](https://github-readme-stats-zeta-teal-22.vercel.app/api/pin/?username=Altaks&repo=Smart-Campus-Mobile&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https:///github.com/Altaks/Smart-Campus-Mobile)
 ___
 
 ### Nuit de l'info 2023 ( ended ):
@@ -70,7 +70,7 @@ This project is part of the Nuit de l'info 2023, it's a web application about th
 The project is made with Php, HTML, CSS, and JavaScript.  
 The project is not available online, but you can find the code on github.
 
-[![Nuit de l'info 2023](https://github-readme-stats.vercel.app/api/pin/?username=VoidLR&repo=NDI-2023&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/VoidLR/NDI-2023)
+[![Nuit de l'info 2023](https://github-readme-stats-zeta-teal-22.vercel.app/api/pin/?username=VoidLR&repo=NDI-2023&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/VoidLR/NDI-2023)
 ___
 
 ### Battleship ( ended ):
@@ -78,18 +78,17 @@ ___
 This project is a battleship game made with C++ in terminal.  
 The project is not available online, but you can find the code on github.
 
-[![Battleship](https://github-readme-stats.vercel.app/api/pin/?username=Tinsuki&repo=SAE1_1&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/tinsuki/SAE1_1)
+[![Battleship](https://github-readme-stats-zeta-teal-22.vercel.app/api/pin/?username=Tinsuki&repo=SAE1_1&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/tinsuki/SAE1_1)
 ___
 
 ## My stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" />
 
 #### My GitHub stats
 
-![Tinsuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tinsuki&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+![Tinsuki's GitHub stats](https://github-readme-stats-zeta-teal-22.vercel.app/api?username=Tinsuki&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
 
 #### My most used languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinsuki&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+![Top Langs](https://github-readme-stats-zeta-teal-22.vercel.app/api/top-langs/?username=Tinsuki&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&exclude_repo=SAE204,Cours-S1,Cours-S2,Cours-S3,Cours-S4,Cours-S5&hide=jupyter_notebook)
 
 #### My contributions
 
